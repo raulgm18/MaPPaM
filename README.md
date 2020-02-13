@@ -1,6 +1,6 @@
 # MaPPaM
 
-https://raulgm18.github.io/MaPPaM/
+https://raulgm18.github.io/leaflet-maps-with-google-sheets/
 
 
 var map = L.map('map').setView([51.505, -0.09], 13);
